@@ -19,4 +19,4 @@ The Daily Planner is a web-based application designed to help users schedule the
 
 ### Dependencies:
 
-- [Day.js](https://day.js.org/): A lightweight JavaScript library used to manage dates and times.
+- [Day.js](https://day.js.org/)
